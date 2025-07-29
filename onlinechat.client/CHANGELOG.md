@@ -5,11 +5,8 @@ The following tools were used to generate this project:
 
 The following steps were used to generate this project:
 - Create react project with create-vite: `npm init --yes vite@latest onlinechat.client -- --template=react`.
-- Update `vite.config.js` to set up proxying and certs.
-- Update `App` component to fetch and display weather information.
+- Updating vite.config.js with port.
 - Create project file (`onlinechat.client.esproj`).
 - Create `launch.json` to enable debugging.
 - Add project to solution.
-- Update proxy endpoint to be the backend server endpoint.
-- Add project to the startup projects list.
 - Write this file.

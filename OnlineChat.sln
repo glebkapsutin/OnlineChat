@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineChat.Server", "OnlineChat.Server\OnlineChat.Server.csproj", "{D2655F8A-2ECD-4A3D-8BC0-962AE58B9493}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "onlinechat.client", "onlinechat.client\onlinechat.client.esproj", "{54CD5408-8E5B-4B7E-885F-5BB808EB10FA}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "onlinechat.client", "OnlineChat.client\onlinechat.client.esproj", "{B6EECC4C-1D13-439D-AB44-D13410967629}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +17,12 @@ Global
 		{D2655F8A-2ECD-4A3D-8BC0-962AE58B9493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2655F8A-2ECD-4A3D-8BC0-962AE58B9493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2655F8A-2ECD-4A3D-8BC0-962AE58B9493}.Release|Any CPU.Build.0 = Release|Any CPU
-		{54CD5408-8E5B-4B7E-885F-5BB808EB10FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{54CD5408-8E5B-4B7E-885F-5BB808EB10FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{54CD5408-8E5B-4B7E-885F-5BB808EB10FA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{54CD5408-8E5B-4B7E-885F-5BB808EB10FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{54CD5408-8E5B-4B7E-885F-5BB808EB10FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{54CD5408-8E5B-4B7E-885F-5BB808EB10FA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B6EECC4C-1D13-439D-AB44-D13410967629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EECC4C-1D13-439D-AB44-D13410967629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EECC4C-1D13-439D-AB44-D13410967629}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B6EECC4C-1D13-439D-AB44-D13410967629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EECC4C-1D13-439D-AB44-D13410967629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6EECC4C-1D13-439D-AB44-D13410967629}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
