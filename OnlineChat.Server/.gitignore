@@ -68,8 +68,8 @@ wwwroot/
 [Pp]ublishArtifacts/
 
 # Environment Variables
-appsettings.json
-appsettings.*.json
+# appsettings.json
+# appsettings.*.json
 .env
 .env.*
 *.env

@@ -1,0 +1,99 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Docker
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.code-workspace
+
+# Build outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Ll]og/
+[Ll]ogs/
+build/
+dist/
+out/
+
+# Test results
+[Tt]est[Rr]esult*/
+coverage/
+*.trx
+*.xml
+*.coverage
+*.coveragexml
+*.testlog
+*.testresults
+*.tests/
+*.test/
+*.TestResults/
+*.TestResult/
+*.TestOutput/
+*.TestOutputs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+*.log
+*.lock
+*.pid
+*.swp
+*~
+
+# OS generated files
+Thumbs.db
+.DS_Store
+*.pidb
+*.scc
+
+# NuGet
+packages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+NuGet/
+NuGet.Config
+NuGetScratch/
+
+# Publish outputs
+wwwroot/
+[Pp]ublish/
+[Pp]ublishOutput/
+[Pp]ublishWeb/
+[Pp]ublishArtifacts/
+
+# Environment files
+.env
+.env.*
+*.env
+*.env.*
+
+# Documentation
+README.md
+*.md
+docs/
+
+# Other
+*.zip
+*.tar.gz
+*.rar 
